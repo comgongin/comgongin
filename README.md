@@ -4,7 +4,8 @@ GitHub Profile README
 
 ## 👋  Soyoung Lee
 
-💻 **Computer Information Engineering Student**\n
+💻 **Computer Information Engineering Student**
+
 🔧 Interested in ...
 
 ---
