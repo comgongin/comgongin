@@ -25,9 +25,7 @@ GitHub Profile README
 
 ### 🌱 About Me
 
-* I enjoy understanding how things work **under the hood**
-* Interested in performance, memory, and low-level optimizations
-* Learning step by step, from fundamentals to applications
+* what...?
 
 ---
 
@@ -40,3 +38,4 @@ GitHub Profile README
 ### 📫 Contact
 
 * GitHub: [@comgongin](https://github.com/comgongin)
+* e-mail: thptct04@gmail.com
