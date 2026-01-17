@@ -2,10 +2,10 @@
 GitHub Profile README
 -->
 
-## 👋 Hi, I'm Soyoung Lee
+## 👋  Soyoung Lee
 
-💻 **Computer Science Student**
-🔧 Interested in low-level programming & system-oriented development
+💻 **Computer Information Engineering Student**
+🔧 Interested in ...
 
 ---
 
