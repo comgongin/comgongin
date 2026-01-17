@@ -2,7 +2,7 @@
 GitHub Profile README
 -->
 
-### 👋  Soyoung Lee
+#### 👋  Soyoung Lee
 
 💻 **Computer Information Engineering Student**
 
