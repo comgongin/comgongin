@@ -11,8 +11,6 @@ GitHub Profile README
 
 ### 🛠️ Languages
 
-### 🛠️ Languages
-
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=flat-square\&logo=cplusplus\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
@@ -22,13 +20,6 @@ GitHub Profile README
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square\&logo=tensorflow\&logoColor=orange)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-1f425f?style=flat-square)
-
----
-
-### 📚 Currently Studying
-
-* **Machine Learning**
-* **Data Structures**
 
 ---
 
