@@ -42,8 +42,10 @@ GitHub Profile README
 * e-mail: thptct04@gmail.com / thptct04@kw.ac.kr
 * 📧 **Email**
 ![Gmail](https://img.shields.io/badge/Gmail-comgongin@gmail.com-ffb6c1?style=flat-square\&logo=gmail\&logoColor=white)
+
 📮 **Contact Me**
 ![Email](https://img.shields.io/badge/Email-comgongin@gmail.com-fadadd?style=flat-square\&logo=maildotru\&logoColor=white)
+
 💌 **Say Hello**
 ![Email]([https://img.shields.io/badge/Send%20me%20a%20mail-૮](https://img.shields.io/badge/Send%20me%20a%20mail-૮) ˶´ ᵕ`˶ ა-cdb4db?style=flat-square)
 [![Email](https://img.shields.io/badge/Gmail-comgongin@gmail.com-ffb6c1?style=flat-square&logo=gmail&logoColor=white)](mailto:comgongin@gmail.com)
