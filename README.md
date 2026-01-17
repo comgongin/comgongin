@@ -42,4 +42,4 @@ GitHub Profile README
 ### 📫 Contact
 
 * GitHub: [@comgongin](https://github.com/comgongin)
-* e-mail: thptct04@gmail.com  >>  thptct04@kw.ac.kr
+* e-mail: thptct04@gmail.com  >  thptct04@kw.ac.kr
