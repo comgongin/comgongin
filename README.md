@@ -39,4 +39,6 @@ GitHub Profile README
 ### 📫 Contact
 
 * GitHub: [@comgongin](https://github.com/comgongin)
+* 📖 Study Blog:
+  [![Tistory](https://img.shields.io/badge/Tistory-CS%20Study%20Notes-1f425f?style=flat-square\&logo=tistory\&logoColor=white)](https://comgongin.tistory.com)
 * e-mail: thptct04@gmail.com  /  thptct04@kw.ac.kr
