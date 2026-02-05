@@ -1,7 +1,6 @@
 # 👋 Soyoung Lee
 
 💻 Computer Information Engineering Student  
-Interested in system-level security and cryptography.
 
 ---
 
