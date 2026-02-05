@@ -9,7 +9,6 @@
 - 🤖 AI Security  
 - 🛠 Reverse Engineering  
 - 🔐 Post-Quantum Cryptography (PQC)  
-- 🧩 Secure System Design  
 
 ---
 
