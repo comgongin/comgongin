@@ -7,7 +7,6 @@
 ### 🔍 Research Interests
 
 - 🤖 AI Security  
-- 🛠 Reverse Engineering  
 - 🔐 Post-Quantum Cryptography (PQC)  
 
 ---
