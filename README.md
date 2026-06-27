@@ -28,4 +28,4 @@
 
 ### 📫 Contact
 
-- Email: thptct04@kw.ac.kr
+- Email: sylee.cs.kr@gmail.com
