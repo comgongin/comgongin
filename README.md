@@ -6,7 +6,7 @@
 
 ### 🔍 Research Interests
 
-- 🤖 AI Security  
+- 🛡️ AI Security (AI Agent Security, AI Red Teaming, Anti-AI)
 - 🔐 Post-Quantum Cryptography (PQC)  
 
 ---
